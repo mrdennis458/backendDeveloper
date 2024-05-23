@@ -1,0 +1,16 @@
+/vendor/
+composer.lock
+.env
+.env.*
+.vscode/
+.idea/
+/logs/
+/tmp/
+/uploads/
+/generated/
+composer.phar
+/public/assets/
+/cache/
+/sessions/
+*~
+/var/www/html
