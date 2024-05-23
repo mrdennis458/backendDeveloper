@@ -14,3 +14,4 @@ composer.phar
 /sessions/
 *~
 /var/www/html
+html/
